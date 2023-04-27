@@ -1,5 +1,5 @@
-const mode = "dev"
-// const mode ="prod"
+// const mode = "dev"
+const mode ="prod"
 
 
 // http://192.168.1.86:3001
