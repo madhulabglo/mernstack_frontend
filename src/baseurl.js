@@ -17,8 +17,6 @@ const baseValues = {
     baseHost:{
         dev:"localhost:3000",
         prod:"mernstack-theta.vercel.app"
-
-
     }
 }
 
